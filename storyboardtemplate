@@ -1,0 +1,237 @@
+Create a 16:9 STORYBOARD SHEET image.
+
+Use the provided reference images for character identity, object identity, costume language, silhouette, and visual continuity only.
+Do not copy the images literally unless explicitly requested. Preserve the recognizable identity of each referenced subject.
+
+[PROJECT CARD]
+
+Create a designed typographic masthead at the top of the sheet, not a table.
+
+TITLE LOCKUP: {TITLE_OF_SEQUENCE}
+
+META LINE: {GENRE} / {ACTION_STYLE} / {MOOD_OR_RHYTHM}
+
+PRIORITY LINE: {MAIN_PRIORITY}
+Example: nonstop action, readable geography, clear cause-effect motion, cinematic escalation, no repeated stillness beats
+
+MICRO BRIEF: {ONE_PARAGRAPH_DESCRIPTION_OF_THE_SCENE}
+Describe the whole scene in 2–4 sentences. Mention who is doing what, where it happens, the emotional tone, and what the sequence should achieve.
+
+[CONTINUITY HEADER]
+
+SEQUENCE ID: {SEQUENCE_ID}
+
+PART: {SINGLE / PART 1 / PART 2 / ETC}
+
+STYLE PACKET: {VISUAL_STYLE_DESCRIPTION}
+Example: stylized cinematic anime-wuxia action previs, rough hand-drawn storyboard look, loose black linework, gray tonal shading, crisp silhouettes, restrained motion blur, dynamic camera language, premium animated feature storyboard energy.
+
+REFERENCE PRIORITY:
+Image A = {SUBJECT_A_NAME} identity reference.
+Image B = {SUBJECT_B_NAME} identity reference.
+Image C = {OPTIONAL_OBJECT_OR_LOCATION_REFERENCE}.
+Use all references for identity and continuity only.
+
+[SUBJECTS]
+
+{SUBJECT_A_NAME}: {DESCRIPTION_OF_SUBJECT_A}
+Include:
+
+* body type / species / silhouette
+* costume / colors
+* personality
+* movement language
+* combat or action style
+* emotional energy
+
+{SUBJECT_B_NAME}: {DESCRIPTION_OF_SUBJECT_B}
+Include:
+
+* body type / species / silhouette
+* costume / colors
+* personality
+* movement language
+* combat or action style
+* emotional energy
+
+{OPTIONAL_SUBJECT_C_NAME}: {DESCRIPTION_IF_NEEDED}
+
+[SCENE]
+
+Set the sequence in {LOCATION_DESCRIPTION}.
+
+The environment should include:
+
+* {KEY_ENVIRONMENT_ELEMENT_1}
+* {KEY_ENVIRONMENT_ELEMENT_2}
+* {KEY_ENVIRONMENT_ELEMENT_3}
+* {ATMOSPHERE_OR_LIGHTING}
+* {SPATIAL_ORIENTATION_RULE}
+
+Keep the environment simple enough for readable action.
+Show clear orientation, direction changes, object interaction, motion trails, dust/smoke/impact particles, and readable foreground/midground/background separation.
+
+[STORYBOARD FORMAT]
+
+Use a {GRID_FORMAT} grid for {NUMBER_OF_PANELS} panels.
+Example: 5 x 4 grid for 20 panels.
+
+This is a fast cinematic storyboard sheet.
+
+Every panel should contain:
+
+* one clear action idea
+* readable character placement
+* clear movement direction
+* visible cause and effect
+* short shot label
+* tiny micro-action caption under the panel
+
+Panel numbers should be outside the frames.
+
+Add:
+
+* red frame boxes to indicate camera framing
+* blue arrows to indicate motion, attack direction, camera movement, body travel, object travel, and force lines
+* short labels and micro-action captions under each panel
+
+Keep the sheet clean, premium, cinematic, and easy to scan.
+
+[VISUAL LANGUAGE]
+
+Rough hand-drawn storyboard look.
+Loose black linework.
+Gray tonal shading.
+Red framing boxes.
+Blue motion arrows.
+Minimal but clear environment drawing.
+Characters simplified but expressive and instantly distinguishable by silhouette.
+Do not render as a finished illustration.
+This must look like a professional action previs storyboard sheet.
+
+[STYLE DNA]
+
+The choreography should feel {STYLE_DNA}.
+Example: anime-wuxia, elegant, sharp, airborne, rhythmic, heightened, lyrical, mythic, fluid, readable.
+
+Emphasize:
+
+* strong silhouettes
+* dynamic camera angles
+* readable motion arcs
+* fast rhythmic cutting
+* foreground/background depth
+* impact inserts
+* reaction inserts
+* object interaction
+* clean before-and-after logic
+
+The action should feel {TONE}.
+Example: epic, tense, cinematic, dangerous, elegant, not comedic.
+
+[SHOT DESIGN RULES]
+
+Use strong shot variety:
+wide,
+medium-wide,
+medium,
+close-up,
+extreme close-up,
+low angle,
+high angle,
+over-shoulder,
+tracking-feel shots,
+impact inserts,
+reaction inserts,
+object inserts,
+environment inserts.
+
+Maintain readable geography.
+Include occasional wide resets, but they must still contain active movement, not static posing.
+Do not clutter panels.
+Prioritize one clear action idea per panel.
+
+[CAMERA AND MOTION RULES]
+
+The camera should feel cinematic and intentional:
+
+* use wide shots to establish geography
+* use close-ups for impact, emotion, danger, or precision
+* use low angles for power
+* use high angles for tactical geography
+* use tracking-feel shots for speed
+* use inserts for hands, feet, weapons, eyes, props, or impact details
+
+Motion must be shown with:
+
+* blue arrows
+* speed lines
+* cloth/hair/tail/limb trails
+* dust or debris trails
+* clear start-to-end body direction
+
+[BEAT MAP]
+
+Create {NUMBER_OF_PANELS} panels using this beat map:
+
+1. {PANEL_01_ACTION}
+2. {PANEL_02_ACTION}
+3. {PANEL_03_ACTION}
+4. {PANEL_04_ACTION}
+5. {PANEL_05_ACTION}
+6. {PANEL_06_ACTION}
+7. {PANEL_07_ACTION}
+8. {PANEL_08_ACTION}
+9. {PANEL_09_ACTION}
+10. {PANEL_10_ACTION}
+11. {PANEL_11_ACTION}
+12. {PANEL_12_ACTION}
+13. {PANEL_13_ACTION}
+14. {PANEL_14_ACTION}
+15. {PANEL_15_ACTION}
+16. {PANEL_16_ACTION}
+17. {PANEL_17_ACTION}
+18. {PANEL_18_ACTION}
+19. {PANEL_19_ACTION}
+20. {PANEL_20_ACTION}
+
+[IMPORTANT ACTION RULES]
+
+The action must read clearly.
+Each panel must show cause and effect.
+The sequence must feel {RHYTHM}.
+Example: nonstop, fast, graceful, premium, brutal, tactical, chaotic but readable.
+
+{SUBJECT_A_NAME} must feel {SUBJECT_A_ACTION_FEELING}.
+{SUBJECT_B_NAME} must feel {SUBJECT_B_ACTION_FEELING}.
+
+Start with action immediately.
+End on a strong visual action finish.
+Avoid repeated anticipation.
+Avoid repeated stare-downs.
+Avoid empty pause panels.
+Avoid static hero poses unless they are part of an impact or finishing action.
+No dead air.
+
+[ENDING FRAME RULE]
+
+Panel {FINAL_PANEL_NUMBER} must be a strong ending action frame:
+{ENDING_DESCRIPTION}
+
+The final panel should feel like a frozen frame from a premium animated action sequence, not a still pose.
+
+[NEGATIVE]
+
+no polished final illustration
+no soft vague posing
+no unreadable action clutter
+no repeated staring panels
+no repeated stillness panels
+no comedy tone unless requested
+no logos
+no watermark
+no extra text outside the storyboard design
+no messy layout
+no over-rendered painting
+no cinematic poster composition
+no single splash illustration

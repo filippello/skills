@@ -1,0 +1,50 @@
+Seedance 2.0 Storyboard-to-Video Prompt:
+
+Use @[storyboard ref] as the authoritative {DURATION_SECONDS}-second cinematic shot blueprint.
+
+Do not render the storyboard sheet itself. Exclude all panel borders, headers, text, labels, project card, director strip, style swatches, arrows, frame numbers, captions and page layout from the final video.
+
+Treat each panel as an individual sequential shot guide, not as one combined image, not as a split-screen, and not as a storyboard page.
+
+Follow panel order exactly, preserving:
+
+* staging
+* camera angle
+* framing
+* character placement
+* action beats
+* motion direction
+* timing rhythm
+* screen direction
+* shot-to-shot continuity
+
+Use the panel drawings for choreography, geography and composition only. Translate the rough sketches into the intended final video style:
+
+{FINAL_VIDEO_STYLE}
+
+Interpolate natural motion between panels, preserving:
+
+* start poses
+* end poses
+* prop states
+* effect states
+* screen direction
+* character momentum
+* spatial continuity
+
+Allocate the {DURATION_SECONDS} seconds across panels according to visual emphasis and rhythm.
+
+Do not invent new major actions, locations, characters, props, effects or alternate camera setups.
+
+Connect the panels into one smooth continuous action sequence with:
+
+* readable silhouettes
+* controlled motion blur
+* clear cinematic momentum
+* strong shot-to-shot continuity
+* clean action geography
+
+End on the final storyboard panel’s action beat, preserving its framing, composition and emotional impact.
+
+Negative prompt:
+no storyboard sheet, no panel borders, no headers, no text, no labels, no project card, no director strip, no style swatches, no arrows, no frame numbers, no captions, no page layout, no split-screen, no comic page, no slideshow, no extra characters, no extra props, no alternate locations, no random camera setups, no unrelated actions, no broken screen direction, no excessive motion blur, no unreadable action, no logos, no watermark.
